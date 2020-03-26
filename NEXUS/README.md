@@ -1,10 +1,10 @@
-# MERN Mediastream
+# NEXUS
 
 A media streaming application with media upload and stream features - developed using React, Node, Express and MongoDB. 
 
-![MERN Mediastream](https://s3.amazonaws.com/mernbook/git+/mediastream.png "MERN Mediastream")
+![NEXUS](https://s3.amazonaws.com/mernbook/git+/mediastream.png "NEXUS")
 
-### [Live Demo](http://mediastream.mernbook.com/ "MERN Mediastream")
+### [Live Demo](http://mediastream.mernbook.com/ "NUXUS")
 
 #### What you need to run this code
 1. Node (8.11.1)
