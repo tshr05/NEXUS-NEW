@@ -2,7 +2,7 @@
 
 A media streaming application with media upload and stream features - developed using React, Node, Express and MongoDB. 
 
-![NEXUS](https://s3.amazonaws.com/mernbook/git+/mediastream.png "NEXUS")
+
 
 ### [Live Demo](http://mediastream.mernbook.com/ "NUXUS")
 
